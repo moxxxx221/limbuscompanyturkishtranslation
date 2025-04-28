@@ -4,44 +4,44 @@
       "id": 0,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "So you ended up giving Kromer the key."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Demek Kromer'a anahtarı verdin."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "How do you know that?"
+      "content": "Nerden biliyorsun bunu?"
     },
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "Demian had this ability to get a grip on things I’d never mentioned to him."
+      "content": "Demian'ın ona hiç bahsetmediğim şeyleri bilme gibi bir özelliği vardı."
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "When I asked him about it, he just said it's “something you learn by carefully observing others”, and didn’t elaborate further."
+      "content": "Ona bunu sorduğumda, sadece "dikkatlice başkalarını izlemleyerek öğrendiğin bir şey olduğunu" söyledi, ve daha üzerinde durmadı."
     },
     {
       "id": 4,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "Sinclair, a series of much more painful events may await you in the future."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Sinclair, ileride seni birsürü can sıkıcı olaylar bekleyebilir."
     },
     {
       "id": 5,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "But you mustn’t give up."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Ama pes etmemelisin."
     },
     {
       "id": 6,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "That pain will foster your growth into a beautiful being."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Bu acı senin güzel bir varlığa dönüşmeni sağlayacak."
     },
     {
       "id": 7,
@@ -56,14 +56,14 @@
     {
       "id": 9,
       "model": "싱클레어",
-      "content": "Yeah… But I don’t really get it though, Demian."
+        "content": "Evet… Ama yine de pek anlamıyorum, Demian."
     },
     {
       "id": 10,
       "model": "학생데미안",
       "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "It’s up to you to find out. Make sure to tell me your answer when you do."
+      "title": "Gizemli Transfer Öğrenci",
+      "content": "Öğrenmek sana kalmış. O gün geldiğinde cevabını sana söylemeyi unutma."
     },
     {
       "id": 11,
